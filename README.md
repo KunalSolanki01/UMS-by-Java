@@ -8,4 +8,4 @@ Open the terminal run run the following command to run the Java program
 ```sh
 java Main.java
 ```
-ho jayega
+ho jayega java mein code OOP easy hai
